@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+.heading {
+  text-align: center;
+}
+
+.middle {
+  border-collapse: collapse;
+  border-spacing: 1px;
+  width: 100%;
+}
+
+.middle td {
+  border: 1px solid black;
+  padding: 1px;
+}
+
+.center td {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+.firstrow{
+	background-color:green;
+}
+.lastrow{
+	background-color:blue;
+}
